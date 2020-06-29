@@ -18,7 +18,9 @@ print(s.autocomplete('do'))
 ```
 
 ### Usage:
-`python3 autocomplete.pyo`
+`
+    python3 autocomplete.py
+`
 
 If You want to test with 1,000,000:
 
