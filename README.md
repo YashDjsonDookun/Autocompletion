@@ -1,4 +1,5 @@
 # Autocompletion
+This problem was recently asked by AirBNB:
 
 ### Task: Implement auto-completion. Given a large set of words (for instance 1,000,000 words) and then a single word prefix, find all words that it can complete to.
 
@@ -17,6 +18,7 @@ print(s.autocomplete('do'))
 ```
 
 If You want to test with 1,000,000:
+
     * 'pip3 install RandomWords'
     * uncomment this line: `from wordlist import words from autocomplete.py`
     * and uncomment this line too: `set_of_words = s.build(words)`
