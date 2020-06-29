@@ -23,7 +23,7 @@ Example:
     python3 autocomplete.py
 `
 
-If You want to test with 1,000,000:
+If You want to test with 1,000,000 words:
 
     * 'pip3 install RandomWords'
     * uncomment this line: `from wordlist import words from autocomplete.py`
