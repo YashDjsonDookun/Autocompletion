@@ -1,6 +1,6 @@
 # Autocompletion
 
-###Task: Implement auto-completion. Given a large set of words (for instance 1,000,000 words) and then a single word prefix, find all words that it can complete to.
+### Task: Implement auto-completion. Given a large set of words (for instance 1,000,000 words) and then a single word prefix, find all words that it can complete to.
 
 ```
 class Solution:
