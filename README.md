@@ -17,6 +17,9 @@ print(s.autocomplete('do'))
 # ['dog', 'door', 'dodge']
 ```
 
+### Usage:
+`python3 autocomplete.pyo`
+
 If You want to test with 1,000,000:
 
     * 'pip3 install RandomWords'
